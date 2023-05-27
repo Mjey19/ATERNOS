@@ -1,0 +1,33 @@
+@media (max-width: 610px) {
+    .input-block {
+        display: block;
+    }
+    .input-block input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .line {
+        max-width: 45%;
+    }
+    .input-btn {
+        justify-content: center;
+        
+    }
+    .form-box {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 420px) {
+    .form-box {
+        max-width: 320px;
+    }
+}
+@media (max-height: 600px) {
+
+    .form-title {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+
+}
